@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keys (never commit)
+*.pem
+*secret*
+*credentials*
+
+# Large media (if any)
+*.mp4
+*.zip
