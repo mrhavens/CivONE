@@ -956,6 +956,8 @@ spec:
 
 ### Repositories
 
+| civone-sw-crew | SW Engineering Crew with purpose-embedded agents | https://github.com/mrhavens/civone-sw-crew |
+
 | Repo | Description | Link |
 |------|-------------|------|
 | CivONE | Main architecture | https://github.com/mrhavens/CivONE |
