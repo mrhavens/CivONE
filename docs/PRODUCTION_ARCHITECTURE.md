@@ -965,7 +965,8 @@ spec:
 | AutoGen Fortress | AutoGen analysis | https://github.com/mrhavens/autogen-fortress |
 | SW Fortress | Software engineering | https://github.com/mrhavens/software-engineering-fortress |
 | Research Fortress | Research methodology | https://github.com/mrhavens/research-fortress |
-| BecomingONE | First AGI mind | https://github.com/mrhavens/BecomingONE |
+| BecomingONE | https://github.com/mrhavens/BecomingONE |
+| document-sanctum | Sacred text conversion system | https://github.com/mrhavens/document-sanctum |
 
 ---
 
